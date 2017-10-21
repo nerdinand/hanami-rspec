@@ -1,7 +1,7 @@
 {
   "name": "hanami-rspec",
   "main": "./lib/hanami-rspec",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "description": "Lets you open the corresponding rspec file for a source file with a keystroke (and vice-versa)",
   "keywords": [
     "hanami",
