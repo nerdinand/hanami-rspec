@@ -1,16 +1,16 @@
 {
   "name": "hanami-rspec",
   "main": "./lib/hanami-rspec",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Lets you open the corresponding rspec file for a source file with a keystroke (and vice-versa)",
   "keywords": [
-    "hanami", "rspec"
+    "hanami",
+    "rspec"
   ],
   "repository": "https://github.com/nerdinand/hanami-rspec",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }
