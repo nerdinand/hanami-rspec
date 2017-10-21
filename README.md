@@ -1,5 +1,8 @@
 # hanami-rspec Package
 
+![Rails Open Rspec](https://raw.github.com/nerdinand/hanami-rspec/master/doc/hanami-rspec.gif)
+
+
 ## Installation
 ```sh
 apm install hanami-rspec
